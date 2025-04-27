@@ -5,5 +5,5 @@
 ## pixels \( ~=vector<vector<pixel>>
 * compression => change the size of pixels
 ## pixel
-* color => vector of the colors of this pixel ex.{255, 255, 0} stands for yellow *notice that it might only have only one element*
+* color => vector of the colors of this pixel ex.{255, 255, 0} stands for yellow *notice that it might only have one element*
 * print => print color to concole
